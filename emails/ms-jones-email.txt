@@ -1,0 +1,7 @@
+I need to send an email to a current customer about the status of an upgrade.
+Announce HVAC software update completion
+Highlight 15% energy efficiency improvement
+Mention new remote diagnostics feature
+Request team to review attached release notes
+Instruct team to test update on assigned units by EOD Friday
+Ask team to report bugs or issues directly

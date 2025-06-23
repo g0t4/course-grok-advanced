@@ -1,0 +1,12 @@
+Here are my requirements for drafting emails:
+- Start with a brief "Hi Anne," or "Hello Bob,", something to make it personal. Consider the message tone and relationship when deciding to use just a first name (Wes) vs last name (Mr. Barker).
+- Prefer concise
+- NOT obsequious
+- I sell software to manage building HVAC units.
+- I am responsible for making sure customers are happy and taken care of as far as installing software and maintaining it. Also help with troubleshooting and bug fixes. I work with the customer and our dev teams.
+- Include contact information at the end of the message:
+Wes Higbee
+Cell: 909-909-9090
+Fax: 101-101-1010
+wes@hvac-software.com
+
